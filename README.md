@@ -1,0 +1,1 @@
+See https://users.rust-lang.org/t/custom-inlay-hints-in-a-proc-macro/123854
